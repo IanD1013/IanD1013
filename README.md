@@ -1,8 +1,8 @@
-# Repository Index
+## Repository Index
 
 Welcome to my repository index! This page serves as a central hub for most of my GitHub projects, organized by category.
 
-## Self-Learning 
+###  Self-Learning 
 - [Entity Framework Core in .NET](https://github.com/IanD1013/dometrain-efcore-dotnet)
 - [C#](https://github.com/IanD1013/csharp-learning)
   - [Getting Started & Deep Dive: C#](https://dometrain.com/course/deep-dive-csharp/)
@@ -23,14 +23,14 @@ Welcome to my repository index! This page serves as a central hub for most of my
 - [Python](https://github.com/IanD1013/python_projects)
 - [Django](https://github.com/IanD1013/storefront-django)
 
-## Frontend Projects
+### Frontend Projects
 - [Meshify](https://github.com/IanD1013/meshify)
 - [Xora](https://github.com/IanD1013/xora)
 - [Filmpire](https://github.com/IanD1013/filmpire)
 - [Currency Graph](https://github.com/IanD1013/currency-exchange-rates-graph)
 - [Gamehub](https://github.com/IanD1013/game-hub)
 
-## Full Stack Projects
+### Full Stack Projects
 - [Dev Overflow](https://github.com/IanD1013/dev-overflow)
 - [Chirper](https://github.com/IanD1013/chirper)
 - [Issue Tracker](https://github.com/IanD1013/issue-tracker)
