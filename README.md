@@ -1,9 +1,9 @@
-# 🙋 Repository Index
+## 🙋 Repository Index
 
 Welcome to my repository index! This page serves as a central hub for most of my GitHub projects, organized by category.
 
 <details>
-<summary style="font-size: 1.5em; font-weight: bold;">🧠 Self-Learning</summary>
+<summary style="font-size: 2em; font-weight: 900;">🧠 Self-Learning</summary>
 
 **C# & .NET**
 - [Entity Framework Core in .NET](https://github.com/IanD1013/dometrain-efcore-dotnet)
@@ -34,7 +34,7 @@ Welcome to my repository index! This page serves as a central hub for most of my
 </details>
 
 <details>
-<summary style="font-size: 1.5em; font-weight: bold;">💻 Frontend Projects</summary>
+<summary style="font-size: 2em; font-weight: 900;">💻 Frontend Projects</summary>
 
 - [Filmpire](https://github.com/IanD1013/filmpire)
 - [Gamehub](https://github.com/IanD1013/game-hub)
@@ -44,7 +44,7 @@ Welcome to my repository index! This page serves as a central hub for most of my
 </details>
 
 <details>
-<summary style="font-size: 1.5em; font-weight: bold;">💻 Full Stack Projects</summary>
+<summary style="font-size: 2em; font-weight: 900;">💻 Full Stack Projects</summary>
 
 - [Dev Overflow](https://github.com/IanD1013/dev-overflow)
 - [Chirper](https://github.com/IanD1013/chirper)
