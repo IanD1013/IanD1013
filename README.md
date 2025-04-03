@@ -1,4 +1,4 @@
-## 🙋 Repository Index
+## 🙋 Repo Index
 
 Welcome to my repository index! This page serves as a central hub for most of my GitHub projects, organized by category.
 
