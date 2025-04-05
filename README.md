@@ -51,6 +51,20 @@ Welcome to my repository index! This page serves as a central hub for most of my
 - [Issue Tracker](https://github.com/IanD1013/issue-tracker)
 </details>
 
+<!-- GitHub Activity Graph -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=tokyo-night" alt="GitHub Activity Graph" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
