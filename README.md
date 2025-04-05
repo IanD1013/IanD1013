@@ -66,31 +66,11 @@ Welcome to my repository index! This page serves as a central hub for most of my
 
 
 <!-- GitHub 3D Contribution Graph -->
-<details>
-<summary style="font-size: 2em; font-weight: 900;">📊 3D Contribution Graph</summary>
-
-<h3>🌈 Rainbow Theme</h3>
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph - Rainbow Theme" />
-
-<h3>🌲 Green Theme</h3>
-<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph - Green Animate" />
-<img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph - Green" />
-
-<h3>🌺 Season Theme</h3>
-<img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph - Season Animate" />
-<img src="./profile-3d-contrib/profile-season.svg" alt="3D Contribution Graph - Season" />
-
-<h3>🌏 South Season Theme</h3>
-<img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Graph - South Season Animate" />
-<img src="./profile-3d-contrib/profile-south-season.svg" alt="3D Contribution Graph - South Season" />
-
-<h3>🌃 Night Theme</h3>
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph - Night View" />
-<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph - Night Green" />
-
-<h3>🎮 Git Block Theme</h3>
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Graph - Git Block" />
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 
 
