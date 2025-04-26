@@ -46,6 +46,7 @@ Welcome to my repository index! This page serves as a central hub for most of my
 <details>
 <summary style="font-size: 2em; font-weight: 900;">💻 Full Stack Projects</summary>
 
+- [Rentiful](https://github.com/IanD1013/rentiful)
 - [Dev Overflow](https://github.com/IanD1013/dev-overflow)
 - [Chirper](https://github.com/IanD1013/chirper)
 - [Issue Tracker](https://github.com/IanD1013/issue-tracker)
