@@ -38,6 +38,7 @@ Welcome to my repository index! This page serves as a central hub for most of my
 
 - [Filmpire](https://github.com/IanD1013/filmpire)
 - [Gamehub](https://github.com/IanD1013/game-hub)
+- [AnimeVault](https://github.com/IanD1013/anime-vault)
 - [Xora](https://github.com/IanD1013/xora)
 - [Meshify](https://github.com/IanD1013/meshify)
 - [Currency Graph](https://github.com/IanD1013/currency-exchange-rates-graph)
