@@ -50,7 +50,6 @@ Welcome to my repository index! This page serves as a central hub for most of my
 - [Dev Overflow](https://github.com/IanD1013/dev-overflow)
 - [Rentiful](https://github.com/IanD1013/rentiful)
 - [Chirper](https://github.com/IanD1013/chirper)
-- [Issue Tracker](https://github.com/IanD1013/issue-tracker)
 </details>
 
 <!-- GitHub Activity Graph -->
