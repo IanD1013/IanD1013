@@ -1,0 +1,45 @@
+name: Profile assets
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # Daily at midnight NZST
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Generate and publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Assemble output
+        run: |
+          set -euo pipefail
+          mkdir -p dist
+          cp profile-3d-contrib/profile-green-animate.svg dist/contrib-3d-light.svg
+          cp profile-3d-contrib/profile-night-rainbow.svg dist/contrib-3d-dark.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          commit_message: Update profile assets
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

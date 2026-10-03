@@ -1,24 +1,6 @@
-<!-- GitHub Activity Graph -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IanD1013&theme=tokyo-night" alt="GitHub Activity Graph" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-
-<!-- GitHub 3D Contribution Graph -->
+<!-- Generated daily by .github/workflows/profile.yml and served from the `output` branch. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IanD1013/IanD1013/output/contrib-3d-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IanD1013/IanD1013/output/contrib-3d-light.svg" />
+  <img src="https://raw.githubusercontent.com/IanD1013/IanD1013/output/contrib-3d-light.svg" alt="3D contribution calendar" width="100%" />
 </picture>
-
-
-
-
