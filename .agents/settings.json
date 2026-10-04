@@ -1,0 +1,21 @@
+{
+  "model": "claude-fable-5-1[1m]",
+  "enabledPlugins": {
+    "claude-notifications-go@claude-notifications-go": true
+  },
+  "extraKnownMarketplaces": {
+    "claude-notifications-go": {
+      "source": {
+        "source": "github",
+        "repo": "777genius/claude-notifications-go"
+      }
+    }
+  },
+  "autoUpdatesChannel": "latest",
+  "skipDangerousModePermissionPrompt": true,
+  "theme": "dark",
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  }
+}
