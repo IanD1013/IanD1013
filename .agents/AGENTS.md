@@ -7,9 +7,7 @@ These instructions apply across all agent scenarios.
 - Never use em dashes.
 - Use plain hyphens instead.
 - When writing commit messages, never auto-add your agent name as a co-author.
-- When writing or substantially editing long Markdown files, put each full sentence on its own line.
 - Preserve normal Markdown structure.
-- Avoid wrapping multiple sentences onto one physical line.
 - Never manually modify `CHANGELOG.md` files.
 - Never manually modify files marked as auto-generated.
 - Always respond in Simplified Chinese. This applies regardless of whether the user communicates in English, Chinese, or a mix of both. Keep code, identifiers, commands, file paths, API names, and other syntax-sensitive content in their original form when appropriate.
